@@ -10,7 +10,7 @@ I'm a passionate software development student eager to become a full-stack devel
 
 ## Skills
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Areas of Interest:** Frontend and Backend Development, Web Design, Problem Solving
+- **Areas of Interest:** Frontend and Backend Development, Web Design, Problem Solving, CyberSec
 
 ## Connect with Me
 Feel free to check out my projects and reach out!
