@@ -1,4 +1,4 @@
-# 🇿🇦 Thuto_R 🇿🇦
+# Hey, I'm Thuto_R 🇿🇦
 
 I'm a passionate software development student eager to become a full-stack developer.
 
