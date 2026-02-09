@@ -1,7 +1,7 @@
 # Hi there, I'm Thuto! 👋
 ### 🚀 Full Stack Developer | Systems Design Enthusiast
 
-I am a software engineer transitioning into **Full Stack Web Development**. I have a strong foundation in Object-Oriented Programming (OOP) and have recently expanded my expertise into containerization, CI/CD pipelines, and mobile development.
+I am a software engineer transitioning into **Full Stack Web Development**. I have a strong foundation in Object-Oriented Programming (OOP) and have recently expanded my expertise into containerization, CI/CD pipelines, and BlockChain developmnent.
 
 I love building scalable systems and ensuring code quality through modern DevOps practices.
 
@@ -41,10 +41,6 @@ A cross-platform mobile application developed using **React Native**.
 A fullstack frontend and backend system focused on data persistence and manipulation using low-level SQL and ORM techniques.
 * **Key Tech:** React, Vite, Typescript, Firebase Auth, Node.js, Firestore, Firebase Hosting.
 * [https://github.com/Thuto42096/flavor-africa-connect](#)
-
-#### 🃏 **[Uno.py](https://github.com/Thuto42096/Uno.py)**
-A Python implementation of the classic Uno card game.
-* **Key Tech:** Python, Game Logic.
 
 ---
 
