@@ -1,5 +1,5 @@
 # Hi there, I'm Thuto! 👋
-### 🚀 Full Stack Developer | Systems Design Enthusiast
+### 🚀 Full Stack Developer | Blockchain Enthusiast
 
 I am a software engineer transitioning into **Full Stack Web Development**. I have a strong foundation in Object-Oriented Programming (OOP) and have recently expanded my expertise into containerization, CI/CD pipelines, and BlockChain developmnent.
 
