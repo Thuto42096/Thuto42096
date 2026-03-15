@@ -1,68 +1,48 @@
-# Hi there, I'm Thuto 👋  
-### 🚀 Full Stack Developer | Blockchain Enthusiast
+Hi there, I'm Thuto 👋
+🚀 Full Stack Engineer | Specializing in Web3 & Blockchain
+I am a Software Engineer with a robust background in Full Stack Web Development and Backend Systems. My expertise lies in bridging the gap between traditional enterprise software and decentralized technologies.
 
-I'm a **Software Engineer** transitioning into **Full Stack Web Development**, with a strong foundation in **Object-Oriented Programming (OOP)** and backend systems. I’ve been expanding my skill set into **containerization, CI/CD pipelines, and blockchain development**, with a growing interest in building secure, scalable, and production-ready applications.
+With a strong foundation in OOP, Containerization, and CI/CD, I am currently focused on building secure, scalable dApps and high-performance smart contracts.
 
-I enjoy solving real-world problems, designing clean architectures, and maintaining high code quality through modern DevOps and engineering best practices.
+🛠️ Technical Arsenal
+Core Full Stack & Backend
 
----
+https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=whiteTypeScripthttps://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=whiteReacthttps://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFBNext.jshttps://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whiteHardhathttps://img.shields.io/badge/Hardhat-FFDB1C?style=for-the-badge&logo=hardhat&logoColor=blackEthers.jshttps://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethers&logoColor=white
 
-## 🛠️ Tech Stack
+Frontend: React, Next.js, Tailwind CSS, React Native.
 
-### **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Backend: Node.js, RESTful APIs, SQL (PostgreSQL/SQLite3), Java/Spring fundamentals.
 
----
+DevOps: Docker, GitLab CI/CD, Git, Linux environment.
 
-### **Backend & Databases**
-- **Databases:** SQLite3, JDBC, Relational Database Design  
-- **Concepts:** OOP, RESTful APIs, ORM (Object–Relational Mapping)  
-- **Architecture:** Modular design, separation of concerns
+Blockchain & Web3 Development
+Smart Contracts: ERC-20 (Tokens), ERC-721/1155 (NFTs), Upgradeable Contracts (OpenZeppelin).
 
----
+Protocols: Deep understanding of EVM standards, Governance (DAO) structures, and DeFi mechanics.
 
-### **DevOps & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Security: Implementing Access Control, Reentrancy protection, and gas-optimized logic.
 
-- Containerized applications with Docker  
-- CI/CD pipelines for automated testing and deployment  
-- Version control and collaborative workflows
+🏗️ What I’m Working On
+Full Stack dApps: Building end-to-end applications that connect React frontends to Ethereum-based smart contracts using TypeScript and Wagmi/Viem.
 
----
+Tokenomics & Minting: Developing custom token ecosystems and NFT minting engines.
 
-### **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Scalability: Integrating traditional backend architectures with decentralized storage (IPFS/Arweave).
 
----
+📈 Growth & Learning
+Security Auditing: Learning to identify vulnerabilities in smart contracts (Slither, Echidna).
 
-## 🔗 Interests & Focus Areas
-- Full Stack Web Development  
-- Blockchain & Smart Contracts  
-- Backend Engineering  
-- DevOps & Cloud-Native Systems  
+Scalability: Researching Layer 2 solutions (Polygon, Arbitrum) to reduce gas costs.
 
----
+System Design: Refining high-load backend architectures and CI/CD automation.
 
-## 📈 Currently Learning
-- Advanced blockchain development  
-- Smart contract security  
-- Scalable backend architectures  
+🤝 Let’s Connect
+💼 Open to: Full Stack roles, Blockchain engineering, or collaborative Web3 projects.
 
----
+LinkedIn | Email
 
-## 🤝 Let’s Connect
-- 💼 Open to collaborations, hackathons, and learning opportunities  
-- 🌍 Passionate about using technology to solve real-world problems
-- [LinkedIn](https://www.linkedin.com/in/thuto-ratlhahane0101/)
-- [Email](mailto:thuto42096@gmail.com)
-
-### 📈 GitHub Stats
-
-![Thuto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thuto42096&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuto42096&layout=compact&theme=radical)
+📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Thuto42096&show_icons=true&theme=radical" alt="Thuto's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thuto42096&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
