@@ -39,6 +39,27 @@ With a strong foundation in **OOP, Containerization, and CI/CD**, I am currently
 
 ---
 
+## ⚙️ Tools & Operating Systems
+
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Operating Systems**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-%23519FDC.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+### **Productivity & Communication**
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
 ## 🏗️ What I’m Working On
 * **Full Stack dApps:** Building end-to-end applications that connect React frontends to Ethereum-based smart contracts using **TypeScript** and **Wagmi/Viem**.
 * **Smart Contract Development:** Engineered custom tokens (ERC-20), NFT collections (ERC-721/1155), and upgradeable contracts.
