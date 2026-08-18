@@ -1,7 +1,7 @@
 # Hi, I'm Thuto 
-### Full Stack Engineer | Specializing in Web3 & Blockchain
+### Future Full Stack Engineer | Specializing in Web3 & Blockchain
 
-I am a **Software Engineer** with a robust background in **Full Stack Web Development** and **Backend Systems**. My expertise lies in bridging the gap between traditional enterprise software and decentralized technologies.
+I am a ** Junior Software Developer** with a robust background in **Web Development** and **Backend Systems**. My expertise lies in bridging the gap between traditional enterprise software and decentralized technologies.
 
 With a strong foundation in **OOP, Containerization, and CI/CD**, I am currently focused on building secure, scalable **dApps** and high-performance smart contracts.
 
