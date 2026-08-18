@@ -68,7 +68,7 @@ With a strong foundation in **OOP, Containerization, and CI/CD**, I am currently
 ---
 
 ## 📈 Growth & Learning
-* **Security Auditing:** Learning to identify vulnerabilities in smart contracts (Slither, Echidna).
+* **Security Auditing:** Learning to identify vulnerabilities in smart contracts.
 * **Scalability:** Researching Layer 2 solutions (Polygon, Arbitrum) to reduce gas costs.
 * **System Design:** Refining high-load backend architectures and CI/CD automation.
 
