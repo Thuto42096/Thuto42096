@@ -1,10 +1,14 @@
 # Hi, I'm Thuto 
 ### Future Full Stack Engineer | Specializing in Web3 & Blockchain
 
-I am a ** Junior Software Developer** with a robust background in **Web Development** and **Backend Systems**. My expertise lies in bridging the gap between traditional enterprise software and decentralized technologies.
-
-With a strong foundation in **OOP, Containerization, and CI/CD**, I am currently focused on building secure, scalable **dApps** and high-performance smart contracts.
-
+I am a **Junior Software Developer** focused on full-stack web development and Web3.
+I build applications with React+Vite and Node.js, SQLite, and MongoDB, and I am developing my skills in Solidity and Ethereum smart contracts.
+---
+## Featured Projects
+-- Zaka 
+-- GrowFi
+-- Stru
+-- UbuntuHealth
 ---
 
 ## 🛠️ Technical Arsenal
